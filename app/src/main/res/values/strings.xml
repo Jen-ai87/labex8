@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Favorite Places</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="add_place">Add a new place</string>
+    <string name="long_press_to_add">Long press on the map to add a favorite place</string>
+</resources>
